@@ -7,5 +7,5 @@ def get_cols_bank() -> list():
 
 
 def get_cols_result() -> list():
-    return ['M%', 'P%', 'A%', 'D', 'POP_SIZE', 'AAA%', 'AA%', 'A%', 'BBB%', 'BB%', 'ACCEPTED_CUSTOMERS',
+    return ['M%', 'P%', 'LA%', 'D', 'POP_SIZE', 'AAA%', 'AA%', 'A%', 'BBB%', 'BB%', 'ACCEPTED_CUSTOMERS',
             'GENERATION_SIZE']
